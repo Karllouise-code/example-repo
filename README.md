@@ -8,3 +8,12 @@ NEVER EVER EVER EVER EVERRRRRR
 store passwords
 store API credentials
 store credit cards
+
+# What I Learned From Kalob.io at Udemy
+
+Terminology
+
+- clone
+- repo = repository
+- push
+- staging committing
